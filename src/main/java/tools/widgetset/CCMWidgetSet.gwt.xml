@@ -1,0 +1,6 @@
+<module>
+	<inherits name="com.vaadin.terminal.gwt.DefaultWidgetSet" />
+	<!-- <stylesheet src="colorpicker/styles.css"/> -->
+
+	<!-- <inherits name="ccm.CCM1.gwt.ColorPickerWidgetSet" /> -->
+</module>

@@ -1,0 +1,68 @@
+@import url(../reindeer/styles.css);
+
+
+.test {
+	color: green;
+	float:right;
+	margin: 20px;
+	
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+   	user-select: none;
+
+}
+
+.testbutton {
+	margin: 20px;
+}
+
+
+
+.v-button-wrap { 
+	white-space: normal;
+}
+
+.v-button-caption {
+	white-space: normal;
+}
+
+
+.picture {
+	pointer-events: none;
+   -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+   	user-select: none;
+}
+
+.v-window {
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+   	user-select: none;
+}
+
+.v-panel {
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+   	user-select: none;
+}
+
+.v-upload .v-button {
+	float: right;
+}
+
+.v-upload .gwt-FileUpload {
+	float: left;
+	height: 26px;
+}
